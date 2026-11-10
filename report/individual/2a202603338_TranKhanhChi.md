@@ -72,5 +72,5 @@ Chưa thực hiện. Nhãn chưa đạt ngưỡng F1 ≥ 0.80 theo GUIDE.md nên
 
 ## 8. Công cụ AI và tài liệu tham khảo
 
-- Claude (Anthropic): dùng ở các thao tác kỹ thuật sau khi tôi gán nhãn trên CVAT: export nhãn sang YOLO, chạy `check_yolo_labels.py` và `evaluate_annotations.py`, phân tích lỗi so với gold và soạn báo cáo từ kết quả chạy thật. Việc gán nhãn 50 ảnh do tôi thực hiện.
-- Tài liệu: GUIDE.md, SUBMISSION.md, RUBRIC.md của repo đề bài. Không đính kèm gold train, token hay mật khẩu.
+- Claude: dùng ở hướng dẫn các thao tác kỹ thuật sau khi tôi gán nhãn trên CVAT: export nhãn sang YOLO, chạy `check_yolo_labels.py` và `evaluate_annotations.py`, phân tích lỗi so với gold và soạn báo cáo từ kết quả chạy thật. Việc gán nhãn 50 ảnh do tôi thực hiện.
+- Tài liệu: GUIDE.md, SUBMISSION.md, RUBRIC.md của repo đề bài
